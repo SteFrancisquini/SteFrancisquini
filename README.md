@@ -3,16 +3,16 @@
 ###
 
 <div align="center">
-  <img height="270" src="https://github.com/SteFrancisquini/SteFrancisquini/blob/main/header_ste.gif?raw=true"  />
+  <img height="200" src="https://github.com/SteFrancisquini/SteFrancisquini/blob/main/header_ste.gif?raw=true"  />
 </div>
 
 ###
 
-<h2 align="center">𝙎𝙤𝙗𝙧𝙚 𝙢𝙞𝙢 👩🏻‍💻</h2>
+<h3 align="center">𝙎𝙤𝙗𝙧𝙚 𝙢𝙞𝙢 👩🏻‍💻</h3>
 
 ###
 
-<p align="center">Estou em uma  constante evolução, buscando sempre aprimorar minhas habilidades e enfrentar novos desafios no campo da tecnologia. A paixão por aprender e aplicar conhecimentos me motiva a estar sempre me atualizado sobre as últimas tendências e tecnologias emergentes, permitindo-me crescer profissionalmente e contribuir de forma significativa para o meu campo de atuação.</p>
+<p align="center">Estou em uma  constante evolução, buscando sempre aprimorar minhas habilidades e enfrentar novos desafios no campo da tecnologia. A paixão por aprender e aplicar conhecimentos me motiva a a estar sempre me atualizado sobre as últimas tendências e tecnologias emergentes, permitindo-me crescer profissionalmente e contribuir de forma significativa para o meu campo de atuação.</p>
 
 ###
 
